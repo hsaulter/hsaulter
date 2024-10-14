@@ -4,7 +4,7 @@ I'm an aspiring software developer with a passion for building efficient and use
 I'm particularly interested in web development, backend systems, and problem-solving. I'm eager to apply my skills in Java, C#, and more to real-world projects.
 
 <h2>👩‍💻Software Development Projects</h2> 
-<li><a href="https://https://github.com/hsaulter/Dentist-Office">Dentist Office Website for Patients and Dentists to Login</a></li>
+<li><a href="https://github.com/hsaulter/Dentist-Office">Dentist Office Website for Patients and Dentists to Login</a></li>
 <li>I'm currently working on some exciting projects. Stay tuned for updates!</li>
 
 
