@@ -26,4 +26,4 @@ I'm particularly interested in web development, backend systems, and problem-sol
   - Associate's Degree in Computer Programming
   ## 🤳Contact Me 
   - [LinkedIn](https://www.linkedin.com/in/haley-saulter-316a32257)
-  - [Email](mailto:hsaulter33@gmail.com)
+  - [Email](mailto:haleysaulter@gmail.com)
